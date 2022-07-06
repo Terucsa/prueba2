@@ -1,0 +1,21 @@
+h1{
+    background-color: pink;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border-radius: 15px;
+    font-weight: 900;
+  
+}
+#Hola{
+        background-color: red;
+        color: black;
+        border-radius: 15px;
+}
+p{
+    border: solid;
+    background-color:brown;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
